@@ -1,0 +1,2 @@
+please explain what bug/feature you have gotten and explain the steps leading up to that bug/feature and any insignt to what you think happend to cause that bug/feature. 
+once you are done open github back up and click on the push.
